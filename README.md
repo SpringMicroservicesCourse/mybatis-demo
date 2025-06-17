@@ -128,7 +128,7 @@ create table t_coffee (
 ### 建置步驟
 1. 複製專案
 ```bash
-git clone [專案網址]
+git clone https://github.com/SpringMicroservicesCourse/mybatis-demo
 ```
 
 2. 進入專案目錄
